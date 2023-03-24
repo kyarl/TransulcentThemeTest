@@ -12,7 +12,7 @@
 :root {
     --version: "2.3.0";
     /* Colors */
-    --main-color: ##6be9ff;
+    --main-color: #6be9ff;
     /* Borders */
     --avatar-radius: 8px;
 }
